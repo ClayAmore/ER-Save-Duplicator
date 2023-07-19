@@ -1,12 +1,8 @@
 # WARNING
-The mod this helper downloads is still in alpha so bugs are expected.
+This will duplicate your save for every account that has an Elden Ring save. This means that if you have a family member/significant other that plays on their own account then this will also duplicate their save file. It won't overwrite, just duplicate. 
 
-# EldenWarfare helper
-A tool to make easier to download, install and toggle [EldenWarfare](https://github.com/ClayAmore/EldenWarfare) Mod.
+# Elden Ring Save Duplicator
+A tool to duplicate your save file with a different extension.
 
-![image](https://github.com/ClayAmore/EldenWarfare/assets/131625063/d622ab20-ba9d-4ac6-91ca-76ab366dd08a)
+![image](https://github.com/ClayAmore/Elden-Ring-Save-Duplicator/assets/131625063/7309b64d-be70-4f69-8a48-68cb0e54b608)
 
-# If the helper hangs up
-1. Go into game folder
-2. Delete `dinput8.dll` file, `mod_loader_config.ini` file and `mods` folder.
-3. Restart the helper and try to follow the steps again.
