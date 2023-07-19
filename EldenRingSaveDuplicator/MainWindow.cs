@@ -121,7 +121,7 @@ namespace EldenwarfareHelper
             stack2.Height = Height;
 
             saveExtentionsText.Width = Width / 2;
-            saveExtentionsText.Text = "Sl0000.";
+            saveExtentionsText.Text = "ER0000.";
             saveExtentionsText.SetSolidColor(TextColor);
             saveExtentionsText.SetFontSize(36);
             saveExtentionsText.Height = 50;
@@ -167,7 +167,7 @@ namespace EldenwarfareHelper
             status.Width = Width / 2;
             status.Text = "Status: ...";
             status.SetSolidColor(TextColor);
-            status.SetFontSize(20);
+            status.SetFontSize(40);
             status.Height = 50;
             status.WordWrapping = DWRITE_WORD_WRAPPING.DWRITE_WORD_WRAPPING_WHOLE_WORD;
             status.VerticalAlignment = Alignment.Center;
