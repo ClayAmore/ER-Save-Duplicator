@@ -1,5 +1,5 @@
 # WARNING
-This will duplicate your save for every account that has an Elden Ring save. This means that if you have a family member/significant other that plays on their own account then this will also duplicate their save file. It won't overwrite, just duplicate. 
+This will duplicate your save for every account that has an Elden Ring save. This means that if you have a family member/significant other that plays on their own account then this will also duplicate their save file. It will however a backup of that save file before overwriting. The backup will be name `Sl0000.<The extenison you picked>.backup`.
 
 # Elden Ring Save Duplicator
 A tool to duplicate your save file with a different extension.
